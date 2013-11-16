@@ -134,3 +134,7 @@ blink {
 	-webkit-animation-duration: 1s;
 }
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wearefractal/blink-polyfill/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
