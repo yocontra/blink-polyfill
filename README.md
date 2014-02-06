@@ -6,7 +6,7 @@ Blinking has been a staple of innovation since the dawn of human culture and now
 ## Timeline
 
 - __1994:__ Papa Netscape releases 1.0 with the blink tag
-- __1994-2013:__ The internet thrives in it's blinking glory
+- __1994-2013:__ The internet thrives in its blinking glory
 - __2012-2013:__ Opera, Chrome, IE, and Firefox completely remove the blink tag. The web weeps.
 
 ## The Outrage
