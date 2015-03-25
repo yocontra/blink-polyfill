@@ -92,29 +92,11 @@ Don't let these "standards" punks steal the web. Place this CSS on your page tod
 }
 
 blink {
-  -webkit-animation-name: blink;
-  -moz-animation-name: blink;
-  -ms-animation-name: blink;
-  -o-animation-name: blink;
-  animation-name: blink;
-
-  -webkit-animation-iteration-count: infinite;
-  -moz-animation-iteration-count: infinite;
-  -ms-animation-iteration-count: infinite;
-  -o-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-
-  -webkit-animation-timing-function: steps(1);
-  -moz-animation-timing-function: steps(1);
-  -ms-animation-timing-function: steps(1);
-  -o-animation-timing-function: steps(1);
-  animation-timing-function: steps(1);
-
-  -webkit-animation-duration: 1s;
-  -moz-animation-duration: 1s;
-  -ms-animation-duration: 1s;
-  -o-animation-duration: 1s;
-  animation-duration: 1s;
+  -webkit-animation: blink 1s steps(1) infinite;
+  -moz-animation: blink 1s steps(1) infinite;
+  -ms-animation: blink 1s steps(1) infinite;
+  -o-animation: blink 1s steps(1) infinite;
+  animation: blink 1s steps(1) infinite;
 }
 ```
 
