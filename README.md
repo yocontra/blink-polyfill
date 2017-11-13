@@ -53,19 +53,6 @@ Don't let these "standards" punks steal the web. Place this CSS on your page tod
 
 }
 
-@-ms-keyframes blink {
- 0% {
-   opacity: 1;
- }
- 50% {
-   opacity: 0;
- }
- 100% {
-   opacity: 1;
- }
-
-}
-
 @-o-keyframes blink {
  0% {
    opacity: 1;
@@ -94,7 +81,6 @@ Don't let these "standards" punks steal the web. Place this CSS on your page tod
 blink {
   -webkit-animation: blink 1s steps(1) infinite;
   -moz-animation: blink 1s steps(1) infinite;
-  -ms-animation: blink 1s steps(1) infinite;
   -o-animation: blink 1s steps(1) infinite;
   animation: blink 1s steps(1) infinite;
 }
